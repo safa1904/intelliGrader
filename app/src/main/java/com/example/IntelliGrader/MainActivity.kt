@@ -1,4 +1,4 @@
-package com.example.grader
+package com.example.IntelliGrader
 
 import android.os.Bundle
 
@@ -11,7 +11,7 @@ import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
 import androidx.drawerlayout.widget.DrawerLayout
 import androidx.appcompat.app.AppCompatActivity
-import com.example.grader.databinding.ActivityMainBinding
+import com.example.IntelliGrader.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

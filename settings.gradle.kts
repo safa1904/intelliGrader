@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Grader"
+rootProject.name = "IntelliGrader"
 include(":app")

@@ -1,4 +1,4 @@
-package com.example.grader
+package com.example.IntelliGrader
 
 import org.junit.Test
 

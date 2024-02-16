@@ -1,13 +1,13 @@
-package com.example.grader.ui.home
+package com.example.IntelliGrader.ui.gallery
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 
-class HomeViewModel : ViewModel() {
+class TermViewModel : ViewModel() {
 
     private val _text = MutableLiveData<String>().apply {
-        value = "This is home Fragment"
+        value = "This is Term Fragment"
     }
     val text: LiveData<String> = _text
 }
