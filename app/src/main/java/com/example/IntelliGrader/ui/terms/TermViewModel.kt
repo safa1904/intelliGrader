@@ -1,4 +1,4 @@
-package com.example.IntelliGrader.ui.gallery
+package com.example.IntelliGrader.ui.terms
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
